@@ -9,7 +9,7 @@
     <key>Input</key>
     <dict>
         <key>NAME</key>
-        <string>AdobeFlashPlayer</string>
+        <string>Adobe Flash Player</string>
         <key>MUNKI_REPO_SUBDIR</key>
         <string>internet_plugins</string>
         <key>pkginfo</key>
