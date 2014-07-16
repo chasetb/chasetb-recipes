@@ -11,6 +11,10 @@ http://msdn.microsoft.com/en-us/library/ee825488(v=cs.20).aspx for a table of Cu
     <string>com.github.autopkg.munki.Office2011Updates</string>
     <key>Input</key>
     <dict>
+        <key>developer</key>
+        <string>Microsoft</string>
+        <key>category</key>
+        <string>Updates</string>
         <key>NAME</key>
         <string>Office2011_update</string>
         <key>MUNKI_REPO_SUBDIR</key>
