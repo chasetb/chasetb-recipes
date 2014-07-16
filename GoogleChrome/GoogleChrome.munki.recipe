@@ -18,6 +18,10 @@
             <array>
                 <string>testing</string>
             </array>
+            <key>developer</key>
+            <string>Google</string>
+            <key>category</key>
+            <string>Productivity</string>
             <key>description</key>
             <string>Chrome is a fast, simple, and secure web browser, built for the modern web.</string>
             <key>display_name</key>
