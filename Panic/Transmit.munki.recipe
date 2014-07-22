@@ -12,7 +12,7 @@ into Munki.</string>
         <key>NAME</key>
         <string>Transmit</string>
         <key>MUNKI_REPO_SUBDIR</key>
-        <string>apps/Transmit</string>
+        <string>apps/panic</string>
         <key>pkginfo</key>
         <dict>
             <key>catalogs</key>
