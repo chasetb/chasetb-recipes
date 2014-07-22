@@ -11,7 +11,7 @@
         <key>NAME</key>
         <string>Adobe Flash Player</string>
         <key>MUNKI_REPO_SUBDIR</key>
-        <string>internet_plugins</string>
+        <string>plugins/adobe</string>
         <key>pkginfo</key>
         <dict>
             <key>catalogs</key>
