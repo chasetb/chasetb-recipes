@@ -11,7 +11,7 @@
         <key>NAME</key>
         <string>Silverlight</string>
         <key>MUNKI_REPO_SUBDIR</key>
-        <string>apps</string>
+        <string>plugins/microsoft</string>
         <key>DOWNLOAD_URL</key>
         <string>http://www.microsoft.com/getsilverlight/handlers/getsilverlight.ashx</string>
         <key>USER_AGENT</key>
