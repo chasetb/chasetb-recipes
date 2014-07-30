@@ -12,13 +12,9 @@
         <string>SuperDuper!</string>
         <key>DOWNLOAD_URL</key>
         <string>http://www.shirt-pocket.com/downloads/SuperDuper!.dmg</string>
-        <key>PKG_ID</key>
-        <string>com.shirtpocket.superduper</string>
     </dict>
     <key>MinimumVersion</key>
     <string>0.2.0</string>
-    <key>ParentRecipe</key>
-	<string>com.github.chasetb.download.SuperDuper</string>
     <key>Process</key>
     <array>
         <dict>
