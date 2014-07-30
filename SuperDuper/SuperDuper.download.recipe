@@ -3,8 +3,7 @@
 <plist version="1.0">
 <dict>
     <key>Description</key>
-	<string>Downloads the latest version of SuperDuper! and makes a pkg of it
-</string>
+	<string>Downloads the latest version of SuperDuper! and makes a pkg of it.</string>
     <key>Identifier</key>
     <string>com.github.chasetb.download.SuperDuper</string>
     <key>Input</key>
