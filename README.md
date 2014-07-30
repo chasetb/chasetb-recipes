@@ -1,4 +1,4 @@
 autopkg
 =======
 
-My Receipes for AutoPKG. ONly ones I haven't found elsewhere are hosted here.
+My Receipes for AutoPKG. Only ones I haven't found elsewhere are hosted here.
