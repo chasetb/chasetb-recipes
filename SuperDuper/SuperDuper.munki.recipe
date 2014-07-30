@@ -20,7 +20,7 @@
             </array>
             <key>category</key>
             <string>Utilities</string>
-            <key>developer</string>
+            <key>developer</key>
             <string>Shirt-Pocket</string>
             <key>description</key>
             <string>SuperDuper is the wildly acclaimed program that makes recovery painless, because it makes creating a fully bootable backup painless. Its incredibly clear, friendly interface is understandable, easy to use, and SuperDuper's built-in scheduler makes it trivial to back up automatically.</string>
