@@ -23,7 +23,7 @@
             <key>developer</key>
             <string>Shirt-Pocket</string>
             <key>description</key>
-            <string>Heroic System Recovery For Mere Mortals. SuperDuper is the wildly acclaimed program that makes recovery painless, because it makes creating a fully bootable backup painless. Its incredibly clear, friendly interface is understandable, easy to use, and SuperDuper's built-in scheduler makes it trivial to back up automatically.</string>
+            <string>&lt;html&gt;&lt;p&gt;&lt;b&gt;Heroic System Recovery For Mere Mortals.&lt;/b&gt;&lt;/p&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;SuperDuper is the wildly acclaimed program that makes recovery painless, because it makes creating a fully bootable backup painless. Its incredibly clear, friendly interface is understandable, easy to use, and SuperDuper's built-in scheduler makes it trivial to back up automatically.&lt;/p&gt;&lt;/html&gt;</string>
             <key>display_name</key>
             <string>SuperDuper!</string>
             <key>name</key>
