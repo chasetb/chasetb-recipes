@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>Description</key>
+    <string>Downloads the current release version of Adobe Flash Player for System Administrators and imports into Munki.</string>
+    <key>Identifier</key>
+    <string>com.github.chasetb.munki.FlashPlayerSysAdmin</string>
+    <key>Input</key>
+    <dict>
+        <key>NAME</key>
+        <string>Adobe Flash Player</string>
+        <key>MUNKI_REPO_SUBDIR</key>
+        <string>plugins/adobe</string>
+        <key>pkginfo</key>
+        <dict>
+            <key>catalogs</key>
+            <array>
+                <string>testing</string>
+            </array>
+            <key>category</key>
+            <string>Plugins</string>
+            <key>developer</key>
+            <string>Adobe</string>
+            <key>description</key>
+            <string>&lt;html&gt;&lt;p&gt;&lt;b&gt;Cross-platform plugin plays animations, videos and sound files in .SWF format.&lt;/b&gt;&lt;/p&gt;&lt;br&gt;Adobe® Flash® Player is a lightweight browser plug-in and rich Internet application runtime that delivers consistent and engaging user experiences, stunning audio/video playback, and exciting gameplay.&lt;/p&gt;&lt;/html&gt;</string>
+            <key>display_name</key>
+            <string>Adobe Flash Player</string>
+            <key>name</key>
+            <string>%NAME%</string>
+            <key>unattended_install</key>
+            <true/>
+        </dict>
+    </dict>
+    <key>MinimumVersion</key>
+    <string>0.2.0</string>
+    <key>ParentRecipe</key>
+	<string>com.github.chasetb.download.FlashPlayerSysAdmin</string>
+    <key>Process</key>
+    <array>
+        <dict>
+            <key>Arguments</key>
+            <dict>
+                <key>pkg_path</key>
+                <string>%pathname%</string>
+                <key>repo_subdirectory</key>
+                <string>%MUNKI_REPO_SUBDIR%</string>
+            </dict>
+            <key>Processor</key>
+            <string>MunkiImporter</string>
+        </dict>
+    </array>
+</dict>
+</plist>
