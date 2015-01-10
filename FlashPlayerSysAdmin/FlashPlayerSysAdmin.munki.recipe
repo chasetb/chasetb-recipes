@@ -16,7 +16,7 @@
         <dict>
             <key>catalogs</key>
             <array>
-                <string>testing</string>
+                <string>Staging</string>
             </array>
             <key>category</key>
             <string>Plugins</string>
