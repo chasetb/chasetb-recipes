@@ -11,7 +11,7 @@
         <key>NAME</key>
         <string>Adobe Flash Player</string>
         <key>DOWNLOAD_URL</key>
-        <string>http://fpdownload.macromedia.com/get/flashplayer/current/licensing/mac/install_flash_player_17_osx_pkg.dmg</string>
+        <string>INSERT DISTRO URL HERE</string>
     </dict>
     <key>MinimumVersion</key>
     <string>0.2.0</string>
