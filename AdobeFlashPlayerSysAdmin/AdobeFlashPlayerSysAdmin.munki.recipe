@@ -5,7 +5,7 @@
     <key>Description</key>
     <string>Downloads the current release version of Adobe Flash Player for System Administrators and imports into Munki.</string>
     <key>Identifier</key>
-    <string>com.github.chasetb.munki.FlashPlayerSysAdmin</string>
+    <string>com.github.chasetb.munki.AdobeAdobeFlashPlayerSysAdmin</string>
     <key>Input</key>
     <dict>
         <key>NAME</key>
@@ -37,7 +37,7 @@
     <key>MinimumVersion</key>
     <string>0.2.0</string>
     <key>ParentRecipe</key>
-	<string>com.github.chasetb.download.FlashPlayerSysAdmin</string>
+	<string>com.github.chasetb.download.AdobeFlashPlayerSysAdmin</string>
     <key>Process</key>
     <array>
         <dict>
